@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Uwimana Lowami. Thanks for visiting my Github.
 
 <!--
 **Sonlowami/Sonlowami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a tech enthusiast. In my life, I have always wanted to be at the innovation end of technology.
+I have skills in C, Java, as well as elementary Python and Django. I am now part of the ALX-Holberton Software Engineering
+Programme, and we are set to learn a lot more things. 
+When I am not coding, or studying, I am out there enjoying nature. 
+As you explore my Github, feel free to reach out to me at uwilowami64@outlook.com when you need me. Have a happy look around.
