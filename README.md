@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a tech enthusiast. In my life, I have always wanted to be at the innovation end of technology.
+I am an ALX Certified Software Engineer
 
-I have skills in C, Java, as well as elementary Python and Django. I am now part of the ALX-Holberton Software Engineering
-Programme, and we are set to learn a lot more things. 
+I have skills in C, Python, JavaScript, TypeScript, Solidity and Devops.
+I can work with Flask, NodeJS and ReactJS
 
-When I am not coding, or studying, I am out there enjoying nature. 
+My most areas of interest is financial and medical technologies. 
 
 As you explore my Github, feel free to reach out to me at uwilowami64@outlook.com when you need me. Have a happy look around.
